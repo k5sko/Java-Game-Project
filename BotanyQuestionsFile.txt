@@ -1,0 +1,219 @@
+// Arihant Kaul
+// BotanyQuestionsFile.txt
+// Contains all the questions and the correct answers for each of those questions
+
+What do plants need to grow?
+Water (c)
+Carbon Dioxide (c)
+Oxygen
+Soil (c)
+
+What plants are commonly found in their man-altered variants?
+Red roses (c)
+Potatoes
+Bananas (c)
+Corn (c)
+
+Which of the following are true about strawberries?
+The part that is eaten is the root of the plant
+They are not actually berries (c)
+The average strawberry has 200 seeds (c)
+It is the only fruit with seeds on the outside (c)
+
+Which of the following are true about herbaceous plants?
+They include vegetables and houseplants (c)
+They are rarely green
+They die back to the ground each year (c)
+They are most commonly found in the desert
+
+Which of the following do leaves have? 
+Openings for passage of gasses and water (c)
+Xylem cells (water transport) and phloem cells (food transport)
+Veins that carry water and nutrients within the leaves (c)
+A waxy cuticle for protection (c)
+
+What do seeds have?
+An embryo (a tiny plant) (c)
+A stem
+A short term food supply for sprouting (c)
+An outer seed coat (c)
+
+Which of the following do flowers have?
+Petals (c)
+An attachment to the stem at the receptacle (c)
+Green structures at the base of the flower that protect the bud (c)
+A pistil and stamen (c)
+
+Which of the following are true about gymnosperms?
+They have seeds, but not flowers (c)
+They include conifers (pine trees, firs, junipers) (c)
+They are vascular plants (have plant tissues) (c)
+All of them eat insects
+
+How do plants defend themselves from predators?
+Some have a mat of thick hairs on the surface of their leaves (c)
+Some have thorns or spines (c)
+Some produce poisonous chemicals (c)
+Some detach from the ground and are blown away by the wind
+
+Which of the following have the correct rate of growth listed?
+Bamboo, 35 inches in a day (c)
+Pine, 40 inches in a day
+Saguaro cactus, 1 inch in a day (c)
+Venus flytrap, 18 inches in a day
+
+Which of the following float on water?
+Apples (c)
+Cranberries (c)
+Bananas
+Coconuts
+
+Which of the following taste the same?
+Apples (c)
+Onions (c)
+Blueberries
+Potatoes (c)
+
+Which of the following are true about oak trees?
+They don't grow acorns until they are 50 (c)
+Some of them produce pineapples
+They're struck by lightning more than any other tree (c)
+They can sometimes have green bark
+
+Which of the following are members of the rose family?
+Strawberries (c)
+Peaches (c)
+Pears (c)
+Jalapenos
+
+What are three fruits that are native to North America?
+Cranberries (c)
+Raspberries
+Concord grapes (c)
+Bluberries (c)
+
+Which two species were known in the fossil record before being found alive?
+Ginkgo biloba (c)
+Giant Sequioa
+Pine
+Dawn Redwood (c)
+
+What are peanuts?
+Fruits
+Vegetables
+Nuts
+Legumes (c)
+
+What are some plants that were named after Greek gods?
+Wormwood (Artemisia) (c)
+Milkweed (Asclepias) (c)
+Hebe (Hebe) (c)
+Giant Sequoa (Sequoiadendron giganteum)
+
+What are two plants that smell like rotting meat?
+Rafflesia (c)
+Purple loosestrife
+Titan Arum (c)
+Creeping Thistle
+
+What are some plants in the sunflower family?
+Daisies (c)
+Yarrow (c)
+Tulips
+Coreopsis (c)
+
+What are some facts about tearing up because of onions?
+It's because of sulfuric compounds (c)
+It is an emotional reaction triggered by the onion
+Chilling and cutting the root end prevents it (c)
+It can only happen indoors
+
+What were the two main trees dominating the earth before flowers?
+Ferns (c)
+Oak (c)
+Fruit trees
+Cone bearing trees (c)
+
+What are some facts about flowers?
+Broccoli is actually a flower (c)
+Orchids don't need soil to grow (c)
+Sunflowers produce toxic substances that kill nearby plants (c)
+Flowers are what are supposed to be eaten
+
+What are some facts about tulips?
+The bulbs can be substituted for onions in recipes (c)
+The bulbs were more valuable than gold in Holland in the 1600s
+They are always a purple color
+They have been known to grow quickly
+
+What are some facts about the world's oldest flower?
+Discovered in 2002 northeast China (c)
+Bloomed 125 million years ago (c)
+Named Archaefructus sinensis (c)
+Resembles a water lily (c)
+
+What do dandelion flowers and leaves provide?
+Vitamins A and C (c)
+Calcium (c)
+Potassium (c)
+Iron (c)
+
+What is Scotland's national flower?
+The wild thistle because it slowed down the Vikings during their invasion (c)
+The rose because it is a symbol of harmony
+The marigold because it is a symbol of joy
+The tulip because it is a symbol of peace
+
+What are some facts about roses?
+Cultivation began around 500 BC (c)
+There are over 100 species (c)
+They are originally from the desert 
+There are over 30,000 varieties (c)
+
+What are some facts about the Shenzhen Nongke Orchid?
+It is the most expensive flower ever sold (c)
+They are known for their healing powers
+They blooom once every 4 to 5 years (c)
+One was sold at an auction for $200,000 (c)
+
+What are some facts about the Blue Cohosh?
+It was used by Native American women for labour and childbirth pains (c)
+It is also called squaw root and papoose root (c)
+Despite the name, its always red
+It resembles a blueberry (c)
+
+What are some facts about bamboo?
+The flowers are rarely seen (c)
+They are harder than steel when fully mature
+They are sometimes blue in color
+It flowers and produces seeds after reaching its life expectancy (c)
+
+What are some facts about wild celery?
+It was used in Europe for hundreds of years as a cure to the plague (c)
+It's also called Angelica (c)
+It can be over 10 different colors
+It is considered a fruit, not a vegetable
+
+What are some facts about lotus flowers?
+They were considered sacred by the Egyptians (c)
+They bear fruit
+They are only ever purple
+They thrive in rivers and damp wetlands (c)
+
+What are some facts about yarrow?
+It has huge flowers
+It can have different colored stems
+Achilles was supposedly dipped in yarrow tea (c)
+It was used in WWI to aid soldiers' wounds (c)
+
+What are some facts about Mimosa punica?
+They can only grow in very high elevations
+The leaves fold up upon being touched (c)
+They have whitish pink flowers (c)
+They can grow on top of other plants
+
+What are some facts about orchids?
+They're native to North America
+They've been the national flower of Colombia since 1936 (c)
+Colombia has 2,010 species of them (c)
+They can only be found in extremely cold climates
